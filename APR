@@ -733,7 +733,7 @@ We appreciate your business!</textarea>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
 
-    <script>
+    <script type="module">
         // AIRTABLE CONFIGURATION
     const AIRTABLE = {
         apiKey: 'patSGxqBvl10GijKc.071943001cbe3c8a6267cc00349270d298608c2487cd0a90bc7ba4ce43069d26',
